@@ -1,0 +1,5 @@
+package generation.mx;
+
+public interface RestMethod {
+
+}

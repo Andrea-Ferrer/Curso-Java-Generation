@@ -1,0 +1,5 @@
+package generation.mx.services;
+
+public class UserService {
+
+}

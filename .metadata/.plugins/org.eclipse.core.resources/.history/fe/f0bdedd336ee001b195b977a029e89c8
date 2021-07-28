@@ -1,0 +1,5 @@
+package generation.mx.controllers;
+
+public class UserController {
+
+}
